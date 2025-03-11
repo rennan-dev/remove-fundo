@@ -15,7 +15,7 @@ pip install rembg pillow
 Execute o script passando o caminho da imagem de entrada e o nome do arquivo de saída:
 
 ```sh
-python remove_bg.py imagem_entrada.jpg imagem_saida.png
+python main.py imagem_entrada.jpg imagem_saida.png
 ```
 
 ### 3. Explicação do Código
